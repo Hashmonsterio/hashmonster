@@ -16,7 +16,11 @@ with High Quality Efficient low-cost hardware and optimized propietary managemen
 
 
 Hashmonster LLC
+
 https://www.hashmonster.io
+
 Storgatan 24, SE-972 32 Luleå, Sweden
+
 support@hashmonster.io
+
 +46 (0)920-24 77 77
